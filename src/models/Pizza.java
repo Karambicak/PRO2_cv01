@@ -39,6 +39,6 @@ public class Pizza {
 
     @Override //code > override methods
     public String toString() {
-        //return name+"("price return ")";
+        return name+ " " +price;
     }
 }
